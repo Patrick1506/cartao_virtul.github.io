@@ -8,7 +8,7 @@
 
 @font-face{
     font-family: Poppins-Light;
-    src:url(../dist/font/Poppins-Light.ttf);
+    src:url(./dist/font/Poppins-Light.ttf);
 }
 
 body {
