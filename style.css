@@ -224,3 +224,15 @@ margin-top: 60px;
     opacity: 0;
   }
 }
+
+@media screen and (max-width: 980px){
+  .img-profile img {
+    margin-left: 40px;
+    margin-top: 105px;
+    width: 150px;
+}
+
+  .head{
+    margin-right: -30px;
+  }
+}
